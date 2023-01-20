@@ -1,5 +1,6 @@
 A-Maze-ingly Retro Route Puzzle
 ==================
+I did this project as an exercise for a job interview. I found it very interesting and learned several things I didn't know (see Depth-first search).
 
 Requisites:
 ------------------
